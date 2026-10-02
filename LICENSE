@@ -1,0 +1,8 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
+This project is licensed under the GNU General Public License, version 2,
+or (at your option) any later version. The version 2 license text is in COPYING.
+
+The driver is an independent implementation of the protocol documented by
+Keyitdev/asus-fan-control-ec. No source code from that GPLv3+ project is included.
+ASUS firmware and proprietary Windows driver code are not included.
